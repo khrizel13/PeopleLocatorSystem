@@ -1,0 +1,369 @@
+2017-12-04 15:47:27 INFO  EmployeeDao:25 - login - Start
+2017-12-04 15:47:27 INFO  EmployeeDao:57 - login - End
+2017-12-04 15:47:27 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :admin
+2017-12-04 16:07:15 INFO  EmployeeDao:25 - login - Start
+2017-12-04 16:07:16 INFO  EmployeeDao:57 - login - End
+2017-12-04 16:07:16 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :admin
+2017-12-04 16:07:23 INFO  EmployeeDao:63 - login - Start
+2017-12-04 16:07:23 INFO  EmployeeDao:100 - login - End
+2018-02-05 10:21:54 INFO  EmployeeDao:25 - login - Start
+2018-02-05 10:21:54 INFO  EmployeeDao:57 - login - End
+2018-02-05 10:21:54 ERROR PeopleLocatorSystemMain:28 - Invalid username/password!
+2018-02-05 10:23:33 INFO  EmployeeDao:25 - login - Start
+2018-02-05 10:23:33 INFO  EmployeeDao:57 - login - End
+2018-02-05 10:23:33 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 10:24:36 INFO  EmployeeDao:193 - login - Start
+2018-02-05 10:24:36 ERROR EmployeeDao:220 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'plsdb.v_employeeseatlocation' doesn't exist
+2018-02-05 10:24:36 INFO  EmployeeDao:231 - login - End
+2018-02-05 10:28:27 INFO  EmployeeDao:25 - login - Start
+2018-02-05 10:28:27 INFO  EmployeeDao:57 - login - End
+2018-02-05 10:28:27 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 10:28:45 INFO  EmployeeDao:63 - login - Start
+2018-02-05 10:28:45 ERROR EmployeeDao:89 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'plsdb.v_employeeseatlocation' doesn't exist
+2018-02-05 10:28:45 INFO  EmployeeDao:100 - login - End
+2018-02-05 10:29:04 INFO  EmployeeDao:25 - login - Start
+2018-02-05 10:29:04 INFO  EmployeeDao:57 - login - End
+2018-02-05 10:29:04 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 10:29:13 INFO  EmployeeDao:193 - login - Start
+2018-02-05 10:29:13 ERROR EmployeeDao:220 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'seat WHERE bldg_id = 'pic' AND floor_number = '3'' at line 1
+2018-02-05 10:29:13 INFO  EmployeeDao:231 - login - End
+2018-02-05 10:30:19 INFO  EmployeeDao:25 - login - Start
+2018-02-05 10:30:19 INFO  EmployeeDao:57 - login - End
+2018-02-05 10:30:19 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 10:30:35 INFO  EmployeeDao:193 - login - Start
+2018-02-05 10:30:35 ERROR EmployeeDao:220 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'seat WHERE bldg_id = 'PIC' AND floor_number = '3'' at line 1
+2018-02-05 10:30:35 INFO  EmployeeDao:231 - login - End
+2018-02-05 11:58:44 INFO  EmployeeDao:25 - login - Start
+2018-02-05 11:58:44 INFO  EmployeeDao:57 - login - End
+2018-02-05 11:58:44 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 11:58:57 INFO  EmployeeDao:237 - login - Start
+2018-02-05 11:58:57 INFO  EmployeeDao:274 - login - End
+2018-02-05 11:59:11 INFO  EmployeeDao:25 - login - Start
+2018-02-05 11:59:11 INFO  EmployeeDao:57 - login - End
+2018-02-05 11:59:11 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 11:59:19 INFO  EmployeeDao:193 - login - Start
+2018-02-05 11:59:19 INFO  EmployeeDao:231 - login - End
+2018-02-05 12:00:44 INFO  EmployeeDao:63 - login - Start
+2018-02-05 12:00:44 INFO  EmployeeDao:100 - login - End
+2018-02-05 13:05:28 INFO  EmployeeDao:237 - login - Start
+2018-02-05 13:05:28 INFO  EmployeeDao:274 - login - End
+2018-02-05 13:07:05 INFO  EmployeeDao:25 - login - Start
+2018-02-05 13:07:06 INFO  EmployeeDao:57 - login - End
+2018-02-05 13:07:06 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 13:07:58 INFO  EmployeeDao:106 - login - Start
+2018-02-05 13:07:58 INFO  EmployeeDao:144 - login - End
+2018-02-05 13:08:32 INFO  EmployeeDao:106 - login - Start
+2018-02-05 13:08:32 INFO  EmployeeDao:144 - login - End
+2018-02-05 13:08:48 INFO  EmployeeDao:150 - login - Start
+2018-02-05 13:08:48 INFO  EmployeeDao:187 - login - End
+2018-02-05 13:08:59 INFO  EmployeeDao:150 - login - Start
+2018-02-05 13:08:59 INFO  EmployeeDao:187 - login - End
+2018-02-05 13:15:12 INFO  EmployeeDao:193 - login - Start
+2018-02-05 13:15:12 INFO  EmployeeDao:231 - login - End
+2018-02-05 13:37:24 INFO  EmployeeDao:25 - login - Start
+2018-02-05 13:37:24 INFO  EmployeeDao:57 - login - End
+2018-02-05 13:37:24 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 13:37:38 INFO  EmployeeDao:193 - login - Start
+2018-02-05 13:37:38 INFO  EmployeeDao:231 - login - End
+2018-02-05 13:45:18 INFO  EmployeeDao:25 - login - Start
+2018-02-05 13:45:18 INFO  EmployeeDao:57 - login - End
+2018-02-05 13:45:18 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 13:45:30 INFO  EmployeeDao:193 - login - Start
+2018-02-05 13:45:30 INFO  EmployeeDao:231 - login - End
+2018-02-05 13:46:34 INFO  EmployeeDao:25 - login - Start
+2018-02-05 13:46:34 INFO  EmployeeDao:57 - login - End
+2018-02-05 13:46:34 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 13:46:43 INFO  EmployeeDao:193 - login - Start
+2018-02-05 13:46:43 INFO  EmployeeDao:231 - login - End
+2018-02-05 13:47:45 INFO  EmployeeDao:25 - login - Start
+2018-02-05 13:47:45 INFO  EmployeeDao:57 - login - End
+2018-02-05 13:47:45 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 13:47:54 INFO  EmployeeDao:193 - login - Start
+2018-02-05 13:47:54 INFO  EmployeeDao:231 - login - End
+2018-02-05 13:48:45 INFO  EmployeeDao:25 - login - Start
+2018-02-05 13:48:46 INFO  EmployeeDao:57 - login - End
+2018-02-05 13:48:46 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 13:48:53 INFO  EmployeeDao:193 - login - Start
+2018-02-05 13:48:53 INFO  EmployeeDao:231 - login - End
+2018-02-05 13:52:48 INFO  EmployeeDao:25 - login - Start
+2018-02-05 13:52:48 INFO  EmployeeDao:57 - login - End
+2018-02-05 13:52:48 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 13:52:55 INFO  EmployeeDao:193 - login - Start
+2018-02-05 13:52:55 INFO  EmployeeDao:231 - login - End
+2018-02-05 13:57:25 INFO  EmployeeDao:25 - login - Start
+2018-02-05 13:57:25 INFO  EmployeeDao:57 - login - End
+2018-02-05 13:57:25 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 13:57:32 INFO  EmployeeDao:193 - login - Start
+2018-02-05 13:57:32 INFO  EmployeeDao:231 - login - End
+2018-02-05 13:59:33 INFO  EmployeeDao:25 - login - Start
+2018-02-05 13:59:34 INFO  EmployeeDao:57 - login - End
+2018-02-05 13:59:34 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 13:59:40 INFO  EmployeeDao:193 - login - Start
+2018-02-05 13:59:40 INFO  EmployeeDao:231 - login - End
+2018-02-05 14:00:28 INFO  EmployeeDao:25 - login - Start
+2018-02-05 14:00:29 INFO  EmployeeDao:57 - login - End
+2018-02-05 14:00:29 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 14:00:34 INFO  EmployeeDao:193 - login - Start
+2018-02-05 14:00:34 INFO  EmployeeDao:231 - login - End
+2018-02-05 14:01:44 INFO  EmployeeDao:25 - login - Start
+2018-02-05 14:01:44 INFO  EmployeeDao:57 - login - End
+2018-02-05 14:01:44 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 14:01:51 INFO  EmployeeDao:193 - login - Start
+2018-02-05 14:01:52 INFO  EmployeeDao:231 - login - End
+2018-02-05 14:03:39 INFO  EmployeeDao:25 - login - Start
+2018-02-05 14:03:40 INFO  EmployeeDao:57 - login - End
+2018-02-05 14:03:40 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 14:03:49 INFO  EmployeeDao:193 - login - Start
+2018-02-05 14:03:49 INFO  EmployeeDao:231 - login - End
+2018-02-05 14:05:50 INFO  EmployeeDao:25 - login - Start
+2018-02-05 14:05:50 INFO  EmployeeDao:57 - login - End
+2018-02-05 14:05:50 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 14:06:07 INFO  EmployeeDao:237 - login - Start
+2018-02-05 14:06:07 INFO  EmployeeDao:274 - login - End
+2018-02-05 14:06:33 INFO  EmployeeDao:237 - login - Start
+2018-02-05 14:06:33 INFO  EmployeeDao:274 - login - End
+2018-02-05 14:10:03 INFO  EmployeeDao:237 - login - Start
+2018-02-05 14:10:03 INFO  EmployeeDao:274 - login - End
+2018-02-05 14:10:27 INFO  EmployeeDao:237 - login - Start
+2018-02-05 14:10:27 INFO  EmployeeDao:274 - login - End
+2018-02-05 14:14:11 INFO  EmployeeDao:25 - login - Start
+2018-02-05 14:14:12 INFO  EmployeeDao:57 - login - End
+2018-02-05 14:14:12 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 14:14:20 INFO  EmployeeDao:193 - login - Start
+2018-02-05 14:14:20 INFO  EmployeeDao:231 - login - End
+2018-02-05 14:14:39 INFO  EmployeeDao:237 - login - Start
+2018-02-05 14:14:39 INFO  EmployeeDao:274 - login - End
+2018-02-05 14:15:19 INFO  EmployeeDao:63 - login - Start
+2018-02-05 14:15:19 INFO  EmployeeDao:100 - login - End
+2018-02-05 14:15:48 INFO  EmployeeDao:280 - login - Start
+2018-02-05 14:15:48 INFO  EmployeeDao:314 - login - End
+2018-02-05 14:19:30 INFO  EmployeeDao:63 - login - Start
+2018-02-05 14:19:30 INFO  EmployeeDao:100 - login - End
+2018-02-05 14:19:49 INFO  EmployeeDao:106 - login - Start
+2018-02-05 14:19:49 INFO  EmployeeDao:144 - login - End
+2018-02-05 14:20:09 INFO  EmployeeDao:150 - login - Start
+2018-02-05 14:20:09 INFO  EmployeeDao:187 - login - End
+2018-02-05 14:20:33 INFO  EmployeeDao:193 - login - Start
+2018-02-05 14:20:33 INFO  EmployeeDao:231 - login - End
+2018-02-05 14:20:59 INFO  EmployeeDao:237 - login - Start
+2018-02-05 14:20:59 INFO  EmployeeDao:274 - login - End
+2018-02-05 14:21:44 INFO  EmployeeDao:63 - login - Start
+2018-02-05 14:21:44 INFO  EmployeeDao:100 - login - End
+2018-02-05 14:23:08 INFO  EmployeeDao:280 - login - Start
+2018-02-05 14:23:08 INFO  EmployeeDao:314 - login - End
+2018-02-05 14:23:26 INFO  EmployeeDao:106 - login - Start
+2018-02-05 14:23:26 INFO  EmployeeDao:144 - login - End
+2018-02-05 14:23:34 INFO  EmployeeDao:280 - login - Start
+2018-02-05 14:23:34 INFO  EmployeeDao:314 - login - End
+2018-02-05 14:32:38 INFO  EmployeeDao:25 - login - Start
+2018-02-05 14:32:39 INFO  EmployeeDao:57 - login - End
+2018-02-05 14:32:39 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 14:32:52 INFO  EmployeeDao:106 - login - Start
+2018-02-05 14:32:52 INFO  EmployeeDao:144 - login - End
+2018-02-05 14:32:58 INFO  EmployeeDao:280 - login - Start
+2018-02-05 14:32:59 INFO  EmployeeDao:314 - login - End
+2018-02-05 14:33:31 INFO  EmployeeDao:25 - login - Start
+2018-02-05 14:33:31 INFO  EmployeeDao:57 - login - End
+2018-02-05 14:33:31 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 14:33:40 INFO  EmployeeDao:106 - login - Start
+2018-02-05 14:33:40 INFO  EmployeeDao:144 - login - End
+2018-02-05 14:33:44 INFO  EmployeeDao:280 - login - Start
+2018-02-05 14:33:44 INFO  EmployeeDao:314 - login - End
+2018-02-05 14:58:59 INFO  EmployeeDao:25 - login - Start
+2018-02-05 14:58:59 INFO  EmployeeDao:57 - login - End
+2018-02-05 14:58:59 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 15:09:51 INFO  EmployeeDao:25 - login - Start
+2018-02-05 15:09:52 INFO  EmployeeDao:57 - login - End
+2018-02-05 15:09:52 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 15:16:19 INFO  EmployeeDao:25 - login - Start
+2018-02-05 15:16:19 INFO  EmployeeDao:57 - login - End
+2018-02-05 15:16:19 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 15:16:51 INFO  EmployeeDao:25 - login - Start
+2018-02-05 15:16:51 INFO  EmployeeDao:57 - login - End
+2018-02-05 15:16:51 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 15:17:51 INFO  EmployeeDao:25 - login - Start
+2018-02-05 15:17:51 INFO  EmployeeDao:57 - login - End
+2018-02-05 15:17:51 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 15:20:21 INFO  EmployeeDao:25 - login - Start
+2018-02-05 15:20:22 INFO  EmployeeDao:57 - login - End
+2018-02-05 15:20:22 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 15:27:00 INFO  EmployeeDao:25 - login - Start
+2018-02-05 15:27:00 INFO  EmployeeDao:57 - login - End
+2018-02-05 15:27:00 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 15:35:25 INFO  EmployeeDao:25 - login - Start
+2018-02-05 15:35:25 INFO  EmployeeDao:57 - login - End
+2018-02-05 15:35:25 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 15:36:22 INFO  EmployeeDao:25 - login - Start
+2018-02-05 15:36:22 INFO  EmployeeDao:57 - login - End
+2018-02-05 15:36:22 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 16:14:40 INFO  EmployeeDao:25 - login - Start
+2018-02-05 16:14:40 INFO  EmployeeDao:57 - login - End
+2018-02-05 16:14:40 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 16:15:46 INFO  EmployeeDao:25 - login - Start
+2018-02-05 16:15:46 INFO  EmployeeDao:57 - login - End
+2018-02-05 16:15:46 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 16:17:54 INFO  EmployeeDao:25 - login - Start
+2018-02-05 16:17:54 INFO  EmployeeDao:57 - login - End
+2018-02-05 16:17:54 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 16:21:08 INFO  EmployeeDao:25 - login - Start
+2018-02-05 16:21:08 INFO  EmployeeDao:57 - login - End
+2018-02-05 16:21:08 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 16:22:22 INFO  EmployeeDao:25 - login - Start
+2018-02-05 16:22:22 INFO  EmployeeDao:57 - login - End
+2018-02-05 16:22:22 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 16:23:55 INFO  EmployeeDao:25 - login - Start
+2018-02-05 16:23:55 INFO  EmployeeDao:57 - login - End
+2018-02-05 16:23:55 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 16:25:11 INFO  EmployeeDao:25 - login - Start
+2018-02-05 16:25:12 INFO  EmployeeDao:57 - login - End
+2018-02-05 16:25:12 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 16:26:17 INFO  EmployeeDao:25 - login - Start
+2018-02-05 16:26:17 INFO  EmployeeDao:57 - login - End
+2018-02-05 16:26:17 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 16:27:36 INFO  EmployeeDao:25 - login - Start
+2018-02-05 16:27:36 INFO  EmployeeDao:57 - login - End
+2018-02-05 16:27:36 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 16:28:22 INFO  EmployeeDao:25 - login - Start
+2018-02-05 16:28:22 INFO  EmployeeDao:57 - login - End
+2018-02-05 16:28:22 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 16:29:23 INFO  EmployeeDao:25 - login - Start
+2018-02-05 16:29:24 INFO  EmployeeDao:57 - login - End
+2018-02-05 16:29:24 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 16:30:17 INFO  EmployeeDao:25 - login - Start
+2018-02-05 16:30:17 INFO  EmployeeDao:57 - login - End
+2018-02-05 16:30:17 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 16:30:49 INFO  EmployeeDao:25 - login - Start
+2018-02-05 16:30:50 INFO  EmployeeDao:57 - login - End
+2018-02-05 16:30:50 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 16:31:16 INFO  EmployeeDao:63 - login - Start
+2018-02-05 16:31:16 INFO  EmployeeDao:100 - login - End
+2018-02-05 16:31:38 INFO  EmployeeDao:63 - login - Start
+2018-02-05 16:31:38 INFO  EmployeeDao:100 - login - End
+2018-02-05 16:36:13 INFO  EmployeeDao:25 - login - Start
+2018-02-05 16:36:13 INFO  EmployeeDao:57 - login - End
+2018-02-05 16:36:13 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 16:39:16 INFO  EmployeeDao:25 - login - Start
+2018-02-05 16:39:16 INFO  EmployeeDao:57 - login - End
+2018-02-05 16:39:16 ERROR PeopleLocatorSystemMain:28 - Invalid username/password!
+2018-02-05 16:39:31 INFO  EmployeeDao:25 - login - Start
+2018-02-05 16:39:31 INFO  EmployeeDao:57 - login - End
+2018-02-05 16:39:31 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-05 16:40:39 INFO  EmployeeDao:63 - login - Start
+2018-02-05 16:40:39 INFO  EmployeeDao:100 - login - End
+2018-02-05 16:41:05 INFO  EmployeeDao:63 - login - Start
+2018-02-05 16:41:05 INFO  EmployeeDao:100 - login - End
+2018-02-05 17:20:52 INFO  EmployeeDao:25 - login - Start
+2018-02-05 17:20:53 INFO  EmployeeDao:57 - login - End
+2018-02-05 17:20:53 ERROR PeopleLocatorSystemMain:28 - Invalid username/password!
+2018-02-05 17:21:13 INFO  EmployeeDao:25 - login - Start
+2018-02-05 17:21:14 INFO  EmployeeDao:57 - login - End
+2018-02-05 17:21:14 ERROR PeopleLocatorSystemMain:28 - Invalid username/password!
+2018-02-06 08:22:24 INFO  EmployeeDao:25 - login - Start
+2018-02-06 08:22:24 INFO  EmployeeDao:57 - login - End
+2018-02-06 08:22:24 ERROR PeopleLocatorSystemMain:28 - Invalid username/password!
+2018-02-06 08:22:56 INFO  EmployeeDao:25 - login - Start
+2018-02-06 08:22:56 INFO  EmployeeDao:57 - login - End
+2018-02-06 08:22:56 ERROR PeopleLocatorSystemMain:28 - Invalid username/password!
+2018-02-06 08:25:30 INFO  EmployeeDao:25 - login - Start
+2018-02-06 08:25:30 INFO  EmployeeDao:57 - login - End
+2018-02-06 08:25:30 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-06 08:25:42 INFO  EmployeeDao:63 - login - Start
+2018-02-06 08:25:42 INFO  EmployeeDao:100 - login - End
+2018-02-06 08:26:27 INFO  EmployeeDao:106 - login - Start
+2018-02-06 08:26:27 INFO  EmployeeDao:144 - login - End
+2018-02-06 08:26:43 INFO  EmployeeDao:150 - login - Start
+2018-02-06 08:26:44 INFO  EmployeeDao:187 - login - End
+2018-02-06 08:27:16 INFO  EmployeeDao:193 - login - Start
+2018-02-06 08:27:16 INFO  EmployeeDao:231 - login - End
+2018-02-06 08:27:33 INFO  EmployeeDao:237 - login - Start
+2018-02-06 08:27:33 INFO  EmployeeDao:274 - login - End
+2018-02-06 08:29:02 INFO  EmployeeDao:106 - login - Start
+2018-02-06 08:29:02 INFO  EmployeeDao:144 - login - End
+2018-02-06 08:29:38 INFO  EmployeeDao:106 - login - Start
+2018-02-06 08:29:38 INFO  EmployeeDao:144 - login - End
+2018-02-06 08:54:25 INFO  EmployeeDao:25 - login - Start
+2018-02-06 08:54:25 INFO  EmployeeDao:57 - login - End
+2018-02-06 08:54:25 ERROR PeopleLocatorSystemMain:28 - Invalid username/password!
+2018-02-06 08:54:35 INFO  EmployeeDao:25 - login - Start
+2018-02-06 08:54:35 INFO  EmployeeDao:57 - login - End
+2018-02-06 08:54:35 ERROR PeopleLocatorSystemMain:28 - Invalid username/password!
+2018-02-06 09:51:45 INFO  EmployeeDao:25 - login - Start
+2018-02-06 09:51:45 INFO  EmployeeDao:57 - login - End
+2018-02-06 09:51:45 ERROR PeopleLocatorSystemMain:28 - Invalid username/password!
+2018-02-06 09:52:13 INFO  EmployeeDao:25 - login - Start
+2018-02-06 09:52:13 INFO  EmployeeDao:57 - login - End
+2018-02-06 09:52:13 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-06 09:52:40 INFO  EmployeeDao:25 - login - Start
+2018-02-06 09:52:40 INFO  EmployeeDao:57 - login - End
+2018-02-06 09:52:40 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-06 09:52:56 INFO  EmployeeDao:25 - login - Start
+2018-02-06 09:52:56 INFO  EmployeeDao:57 - login - End
+2018-02-06 09:52:56 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-06 09:53:13 INFO  EmployeeDao:25 - login - Start
+2018-02-06 09:53:14 INFO  EmployeeDao:57 - login - End
+2018-02-06 09:53:14 ERROR PeopleLocatorSystemMain:28 - Invalid username/password!
+2018-02-06 10:14:42 INFO  EmployeeDao:25 - login - Start
+2018-02-06 10:14:42 INFO  EmployeeDao:57 - login - End
+2018-02-06 10:14:42 ERROR PeopleLocatorSystemMain:28 - Invalid username/password!
+2018-02-06 10:15:42 INFO  EmployeeDao:25 - login - Start
+2018-02-06 10:15:42 INFO  EmployeeDao:57 - login - End
+2018-02-06 10:15:42 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-06 10:16:01 INFO  EmployeeDao:25 - login - Start
+2018-02-06 10:16:01 INFO  EmployeeDao:57 - login - End
+2018-02-06 10:16:01 ERROR PeopleLocatorSystemMain:28 - Invalid username/password!
+2018-02-06 10:16:16 INFO  EmployeeDao:25 - login - Start
+2018-02-06 10:16:16 INFO  EmployeeDao:57 - login - End
+2018-02-06 10:16:16 ERROR PeopleLocatorSystemMain:28 - Invalid username/password!
+2018-02-06 10:16:32 INFO  EmployeeDao:25 - login - Start
+2018-02-06 10:16:32 INFO  EmployeeDao:57 - login - End
+2018-02-06 10:16:32 ERROR PeopleLocatorSystemMain:28 - Invalid username/password!
+2018-02-06 10:16:47 INFO  EmployeeDao:25 - login - Start
+2018-02-06 10:16:48 INFO  EmployeeDao:57 - login - End
+2018-02-06 10:16:48 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-06 11:25:19 INFO  EmployeeDao:26 - login - Start
+2018-02-06 11:25:19 INFO  EmployeeDao:58 - login - End
+2018-02-06 11:25:19 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-06 13:32:50 INFO  EmployeeDao:26 - login - Start
+2018-02-06 13:32:50 INFO  EmployeeDao:58 - login - End
+2018-02-06 13:32:50 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-06 13:33:15 INFO  EmployeeDao:65 - login - Start
+2018-02-06 13:33:15 INFO  EmployeeDao:102 - login - End
+2018-02-06 13:33:28 INFO  EmployeeDao:109 - login - Start
+2018-02-06 13:33:28 INFO  EmployeeDao:147 - login - End
+2018-02-06 13:33:48 INFO  EmployeeDao:154 - login - Start
+2018-02-06 13:33:48 INFO  EmployeeDao:191 - login - End
+2018-02-06 13:34:02 INFO  EmployeeDao:65 - login - Start
+2018-02-06 13:34:03 INFO  EmployeeDao:102 - login - End
+2018-02-06 13:34:24 INFO  EmployeeDao:198 - login - Start
+2018-02-06 13:34:25 INFO  EmployeeDao:236 - login - End
+2018-02-06 13:34:47 INFO  EmployeeDao:243 - login - Start
+2018-02-06 13:34:47 INFO  EmployeeDao:280 - login - End
+2018-02-06 13:35:32 INFO  EmployeeDao:287 - login - Start
+2018-02-06 13:35:32 INFO  EmployeeDao:321 - login - End
+2018-02-06 13:36:19 INFO  EmployeeDao:287 - login - Start
+2018-02-06 13:36:19 INFO  EmployeeDao:321 - login - End
+2018-02-06 13:41:43 INFO  EmployeeDao:26 - login - Start
+2018-02-06 13:41:43 INFO  EmployeeDao:58 - login - End
+2018-02-06 13:41:43 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-06 13:41:56 INFO  EmployeeDao:65 - login - Start
+2018-02-06 13:41:56 INFO  EmployeeDao:102 - login - End
+2018-02-06 13:42:08 INFO  EmployeeDao:287 - login - Start
+2018-02-06 13:42:08 INFO  EmployeeDao:321 - login - End
+2018-02-06 13:43:17 INFO  EmployeeDao:26 - login - Start
+2018-02-06 13:43:17 INFO  EmployeeDao:58 - login - End
+2018-02-06 13:43:17 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-06 13:43:26 INFO  EmployeeDao:243 - login - Start
+2018-02-06 13:43:26 INFO  EmployeeDao:280 - login - End
+2018-02-06 13:43:39 INFO  EmployeeDao:109 - login - Start
+2018-02-06 13:43:39 INFO  EmployeeDao:147 - login - End
+2018-02-06 13:43:42 INFO  EmployeeDao:287 - login - Start
+2018-02-06 13:43:42 INFO  EmployeeDao:321 - login - End
+2018-02-06 13:44:03 INFO  EmployeeDao:154 - login - Start
+2018-02-06 13:44:03 INFO  EmployeeDao:191 - login - End
+2018-02-06 13:44:14 INFO  EmployeeDao:287 - login - Start
+2018-02-06 13:44:14 INFO  EmployeeDao:321 - login - End
+2018-02-06 13:55:32 INFO  EmployeeDao:26 - login - Start
+2018-02-06 13:55:32 INFO  EmployeeDao:58 - login - End
+2018-02-06 13:55:32 INFO  PeopleLocatorSystemMain:30 - User successfully login! USER :dexter.bobis
+2018-02-06 13:55:40 INFO  EmployeeDao:109 - login - Start
+2018-02-06 13:55:40 INFO  EmployeeDao:147 - login - End
